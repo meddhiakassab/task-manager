@@ -1,0 +1,53 @@
+# Gradle files
+.gradle/
+build/
+.idea/
+local.properties
+.gradle-wrapper.jar
+.gradle-wrapper.properties
+
+# Android Studio
+/.idea/
+/.idea/*
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Java class files
+*.class
+
+# Eclipse files
+*.classpath
+*.project
+.settings/
+
+# Android specific
+captures/
+*.apk
+*.ap_ 
+*.dex
+*.o
+*.so
+*.jar
+*.jks
+*.keystore
+*.out
+# Uncomment the following line if you want to ignore the signed APKs
+# app/build/outputs/**/*.apk
+
+# IntelliJ files
+*.iws
+*.ipr
+
+# Generated files
+build/
+bin/
+out/
+
+# Firebase config file
+google-services.json
